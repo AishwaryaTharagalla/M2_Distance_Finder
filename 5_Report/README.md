@@ -26,6 +26,10 @@ An ultrasonic sensor that is able to measure the distance from the ground of sel
 ## CIRCUIT DIAGRAM
 ![Distance Measurement by Ultrasonic Sensor and AVR Microcontroller_ Project - Google Chrome 22-Apr-2022 18_15_41](https://user-images.githubusercontent.com/101447824/164720023-a1f81ae5-6da9-44d4-a441-aa87a7681a68.png)
 
+## CIRCUIT CONNECTION
+![SimulIDE-0 4 15-SR9  -  proj1 simu 22-Apr-2022 18_50_32](https://user-images.githubusercontent.com/101447824/164729573-b0458d59-b821-4117-9e66-d9f22983b924.png)
+
+
 # HIGH LEVEL TEST PLAN
 
 | **Test ID** | **Description**                                              | **Actual Output** | **Expected Output** |   
@@ -44,6 +48,12 @@ An ultrasonic sensor that is able to measure the distance from the ground of sel
 ![Distance Measurement by Ultrasonic Sensor and AVR Microcontroller_ Project - Google Chrome 22-Apr-2022 18_16_09](https://user-images.githubusercontent.com/101447824/164720030-dba6bf1e-f35c-49fd-a449-beae5ba4f897.png)
 
 # FUTURE SCOPE
+This is a very economic technology and can be used in several other fields as well, few are listed as below:
 
+* Can be used as parking assistance systems in vehicles withhigh power ultrasonic transmitter.
+* Can be used as burglar alarm with suitable additional software for homes and offices.
+* Can be a used in liquid level measurement.
+* Can be used to find breakdowns in wires or threads
 
 # CONCLUSION
+The importance of the project is calculating accurate distance from any obstacle that we want to measure. The device can be used in many different fields and categories like distance calculation in construction field, robots, car sensor to avoid obstacles and many other applications. The building process of the device was based on using as much as possible from the courses taken in the university, like Micro Processor, Basic Electronics Engineering, Multimedia and systems and Electronics Devices and also practical work in the laboratories.
