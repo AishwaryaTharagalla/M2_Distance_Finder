@@ -1,7 +1,7 @@
 
-#include "display.h"
-#include "project_config.h"
-#include "user_utils.h"
+#include "lcd_operations.h"
+#include "pins_config.h"
+#include "proj_utils.h"
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <stdlib.h>
