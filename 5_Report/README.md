@@ -19,6 +19,30 @@ An ultrasonic sensor that is able to measure the distance from the ground of sel
 ## LOW LEVEL REQUIREMENTS
 * To avoid accidents by maintaing distance.
 
+# COMPONENTS
+
+# Ultrasonic Sensor
+
+An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.Ultrasonic Module HC-SR04 works on the principle of SONAR and RADAR system.HC-SR-04 module has an ultrasonic transmitter, receiver, and control circuit on a single board.The module has only 4 pins, Vcc, Gnd, Trig, and Echo.
+
+![Micro bit lesson — Using the Ultrasonic Module « osoyoo com - Google Chrome 23-Apr-2022 18_46_14](https://user-images.githubusercontent.com/101447824/164896383-a700ed2c-561a-4959-bf2a-c72ab5e0d7f2.png)
+
+
+# AVR Microcontroller(ATMEGA328)
+
+ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory.
+
+ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM). This property shows if the electric supply supplied to the micro-controller is removed, even then it can store the data and can provide results after providing it with the electric supply. Moreover, ATmega-328 has 2KB Static Random Access Memory (SRAM). Other characteristics will be explained later. ATmega 328 has several different features which make it the most popular device in today’s market. These features consist of advanced RISC architecture, good performance, low power consumption, real timer counter having separate oscillator, 6 PWM pins, programmable Serial USART, programming lock for software security, throughput up to 20 MIPS etc. Further details about ATmega 328 will be given later in this section.
+
+![Micro bit lesson — Using the Ultrasonic Module « osoyoo com - Google Chrome 23-Apr-2022 18_47_31](https://user-images.githubusercontent.com/101447824/164896402-5be4ba5b-dafd-4a24-b940-529d8c967be3.png)
+
+
+# LCD Display
+
+LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.
+
+![Micro bit lesson — Using the Ultrasonic Module « osoyoo com - Google Chrome 23-Apr-2022 18_48_35](https://user-images.githubusercontent.com/101447824/164896412-55495cd6-8cc3-43a5-9267-6c5562eb0509.png)
+
 ## BLOCK DIAGRAM
 
 ![PICUUUU - PowerPoint 22-Apr-2022 17_51_34](https://user-images.githubusercontent.com/101447824/164715449-33ade9a4-aa5e-49d4-883f-8e2be7838785.png)
