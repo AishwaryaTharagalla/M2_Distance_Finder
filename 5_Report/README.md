@@ -71,6 +71,11 @@ LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid c
 ## TIMING DIAGRAM
 ![Distance Measurement by Ultrasonic Sensor and AVR Microcontroller_ Project - Google Chrome 22-Apr-2022 18_16_09](https://user-images.githubusercontent.com/101447824/164720030-dba6bf1e-f35c-49fd-a449-beae5ba4f897.png)
 
+# REFERENCES
+
+* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628022
+* https://circuitdigest.com/microcontroller-projects/distance-measurement-using-hc-sr04-avr
+
 # FUTURE SCOPE
 This is a very economic technology and can be used in several other fields as well, few are listed as below:
 
